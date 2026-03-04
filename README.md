@@ -14,3 +14,5 @@ Estudando constantemente para aplicar os conhecimentos e técnicas no contexto d
   <img align="center" alt="Caio-js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Caio-postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
+
+![snake gif](https://raw.githubusercontent.com/Caio-Alves-865/Caio-Alves-865/output/github-contribution-grid-snake.svg)
